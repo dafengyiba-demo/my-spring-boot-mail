@@ -1,0 +1,5 @@
+spring:
+  mail:
+    username: 104239xxxx@qq.com  #发邮件的账号
+    password: wahjmkdrtgqexxxx   #在邮箱的 设置->账户->xxx服务，开启时生成的授权码（也可以用真实的邮件密码）
+    host: smtp.qq.com            #在开启邮件xxx服务的地方，有如何发送邮件，在里面找到邮件的host
